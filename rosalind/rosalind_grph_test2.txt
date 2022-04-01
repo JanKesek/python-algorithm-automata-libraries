@@ -1,0 +1,4 @@
+>Rosalind_1234
+AAATAAA 
+>Rosalind_1235
+AAAGAAA
